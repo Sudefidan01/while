@@ -1,0 +1,8 @@
+C:\Users\smart.konuk\source\repos\20232907_While\20232907_While\bin\Debug\20232907_While.exe.config
+C:\Users\smart.konuk\source\repos\20232907_While\20232907_While\bin\Debug\20232907_While.exe
+C:\Users\smart.konuk\source\repos\20232907_While\20232907_While\bin\Debug\20232907_While.pdb
+C:\Users\smart.konuk\source\repos\20232907_While\20232907_While\obj\Debug\20232907_While.csproj.AssemblyReference.cache
+C:\Users\smart.konuk\source\repos\20232907_While\20232907_While\obj\Debug\20232907_While.csproj.SuggestedBindingRedirects.cache
+C:\Users\smart.konuk\source\repos\20232907_While\20232907_While\obj\Debug\20232907_While.csproj.CoreCompileInputs.cache
+C:\Users\smart.konuk\source\repos\20232907_While\20232907_While\obj\Debug\20232907_While.exe
+C:\Users\smart.konuk\source\repos\20232907_While\20232907_While\obj\Debug\20232907_While.pdb
